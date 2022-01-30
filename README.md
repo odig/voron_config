@@ -14,7 +14,7 @@ cp config_voron/templates/voron-2-4-printer.template.cfg printer.cfg
 [update_manager client VoronConfig]
 type: git_repo
 path: /home/pi/klipper_config/config_voron
-origin: git@github.com:odig/voron_config.git
+origin: https://github.com/odig/voron_config.git
 primary_branch: main
 
 [update_manager timelapse]
