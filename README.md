@@ -6,7 +6,7 @@ Use it at your own risk.
 
 This repository adds a directory config_voron to your klipper_config dir.  
 It utilizes the RatOS Klipper config structure and features.  
-It adds a Voron 2 config and with Timelapse, Klicky and Stealthburner support to RatOs.  
+It adds a Voron 2 config with Timelapse, Klicky and Stealthburner LED support to RatOS.  
 
 The scripts in klicky subdir are the original Klicky scripts.  
 I just added Stealthburner LED control.  
